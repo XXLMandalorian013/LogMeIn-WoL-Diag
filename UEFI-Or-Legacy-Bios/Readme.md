@@ -1,0 +1,1 @@
+# Look to see if the PC is UEFI or Legacy Bios.
